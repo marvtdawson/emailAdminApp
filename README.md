@@ -39,13 +39,15 @@ The application capture various class fields such as:
 * Linux Command Line
 * GIT (obviously)
 
-######  The Java Journey Series includes the following JAVA applications:
-* Email Admin Application
+######  The Java Journey Series includes the following JAVA applications on GIT:
+* <a href="https://github.com/marvtdawson/emailAdminApp">Email Admin Application</a>
 * New Bank Account
 * Build A Student Database Application
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
 * Spring Guess The Number Game 
+* Spring Boot & Angular 7 / 8 
+* Spring Boot - Java Web Service with RESTful API
 * MVC Application using JSP & Servlets
 * MultiLingual Application using JSP & Servlets
 * Build A Complete Database Web App with JDBC using JSP & Servlets
@@ -62,6 +64,7 @@ The application capture various class fields such as:
 * Android Kotlin YouTube App
 * Android Kotlin Flicker App
 * Android Kotlin Task Timer App
+* TDD with Spring Boot 
 
 
 
