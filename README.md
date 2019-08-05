@@ -14,7 +14,7 @@ Basic Java project template\
 Package: "com.marvintdawson.emailAdminApp"
 
 ##### Classes
-* EmailAdmin
+* Main
 * Email
 
 The application capture various class fields such as:
@@ -40,14 +40,14 @@ The application capture various class fields such as:
 * GIT (obviously)
 
 ######  The Java Journey Series includes the following JAVA applications on GIT:
-* <a href="https://github.com/marvtdawson/emailAdminApp">Email Admin Application</a>
-* New Bank Account
-* Build A Student Database Application
+* <a href="https://github.com/marvtdawson/emailAdminApp">Java Email Admin Application</a>
+* Java New Bank Account
+* Java Student Database Application
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
 * Spring Guess The Number Game 
-* Spring Boot & Angular 7 / 8 
-* Spring Boot - Java Web Service with RESTful API
+* <a href="https://github.com/marvtdawson/angular-springboot-todo">Spring Boot 5 & Angular 6 - ToDo Application</a> 
+* Spring Boot 5 - Java Web Service with RESTful API
 * MVC Application using JSP & Servlets
 * MultiLingual Application using JSP & Servlets
 * Build A Complete Database Web App with JDBC using JSP & Servlets
