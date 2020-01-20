@@ -7,7 +7,7 @@ created using the Java programming language and various tools and frameworks.
 
 ## Java Console Email Admin Application
 
-The email admin app is a basic Java web application that allows university administrative employees to send internal emails.  
+The email admin app is a basic Java console web application that allows university administrative employees to send internal emails.  
 
 #### Project Structure
 Basic Java project template
@@ -46,6 +46,7 @@ The application capture various class fields such as:
 * Spring MVC & Hibernate - Build A Complete Database Web App
 * <a href="https://github.com/marvtdawson/timbu-java-springboot-GuessTheNumberGame">Spring 5 Guess The Number Game </a>
 * <a href="https://github.com/marvtdawson/angular-springboot-todo">Spring Boot 5 & Angular 6 - ToDo Application</a> 
+* <a href="https://github.com/marvtdawson/react-springboot-todo">Spring Boot 5 & ReactJS 16 - ToDo Application</a>
 * Spring Boot 5 - Java Web Service with RESTful API
 * MVC Application using JSP & Servlets
 * MultiLingual Application using JSP & Servlets
