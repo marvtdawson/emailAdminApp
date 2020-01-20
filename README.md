@@ -1,17 +1,16 @@
-# The Java Journey Series - "Email Admin Application"
+# The Java Journey Series - "Java Console Email Admin Application"
 
 ![](src/resources/jjs_email_admin_application.jpg)
 
 The Java Journey Series is my learning path to Java mastery.  It consist of a series of Java applications
 created using the Java programming language and various tools and frameworks.
 
-## Email Admin Application
+## Java Console Email Admin Application
 
 The email admin app is a basic Java web application that allows university administrative employees to send internal emails.  
 
 #### Project Structure
-Basic Java project template\
-Package: "com.marvintdawson.emailAdminApp"
+Basic Java project template
 
 ##### Classes
 * Main
@@ -34,7 +33,7 @@ The application capture various class fields such as:
 
 ##### Tools used:
 
-* Intellij Idea Ultimate 2019
+* Intellij Idea Ultimate 
 * MySQL Workbench
 * Linux Command Line
 * GIT (obviously)
