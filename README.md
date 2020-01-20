@@ -40,12 +40,12 @@ The application capture various class fields such as:
 * GIT (obviously)
 
 ######  The Java Journey Series includes the following JAVA applications on GIT:
-* <a href="https://github.com/marvtdawson/emailAdminApp">Java Email Admin Application</a>
+* <a href="https://github.com/marvtdawson/java-emailAdminApp">Java Email Admin Application</a>
 * Java New Bank Account
 * Java Student Database Application
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
-* Spring Guess The Number Game 
+* <a href="https://github.com/marvtdawson/timbu-java-springboot-GuessTheNumberGame">Spring 5 Guess The Number Game </a>
 * <a href="https://github.com/marvtdawson/angular-springboot-todo">Spring Boot 5 & Angular 6 - ToDo Application</a> 
 * Spring Boot 5 - Java Web Service with RESTful API
 * MVC Application using JSP & Servlets
