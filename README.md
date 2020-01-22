@@ -1,6 +1,6 @@
 # The Java Journey Series - "Java Console Email Admin Application"
 
-![](src/resources/jjs_email_admin_application.jpg)
+![](resources/jjs_email_admin_application.jpg)
 
 The Java Journey Series is my learning path to Java mastery.  It consist of a series of Java applications
 created using the Java programming language and various tools and frameworks.

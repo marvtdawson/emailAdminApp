@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be48640b-5d80-4996-9d2b-a8be100cea61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/EmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/UserInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailAdminApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/emailAdminApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/java_jouney_series_spring5_guess_the_number_game_application.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/email/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/jjs_email_admin_application.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/jjs_email_admin_application.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,13 +47,30 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.marvintdawson.emailAdminAppTest" />
+      <recent name="com.marvintdawson.emailAdminApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -58,6 +86,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,7 +117,8 @@
       <workItem from="1564334399347" duration="9268000" />
       <workItem from="1564965632964" duration="3502000" />
       <workItem from="1565497937274" duration="1010000" />
-      <workItem from="1579494751830" duration="1944000" />
+      <workItem from="1579494751830" duration="2837000" />
+      <workItem from="1579648451895" duration="3578000" />
     </task>
     <servers />
   </component>
@@ -105,10 +139,58 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="613" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1579652420138">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="613" y="136" key="#com.intellij.ide.util.MemberChooser/0.24.1600.876@0.24.1600.876" timestamp="1579652420138" />
+    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579652038338">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog/0.24.1600.876@0.24.1600.876" timestamp="1579652038338" />
     <state x="588" y="207" key="FileChooserDialogImpl" timestamp="1579495461182">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="588" y="207" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1579495461182" />
+    <state width="1554" height="283" key="GridCell.Tab.0.bottom" timestamp="1579652188162">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.0.bottom/0.24.1600.876@0.24.1600.876" timestamp="1579652188162" />
+    <state width="1554" height="283" key="GridCell.Tab.0.center" timestamp="1579652188154">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.0.center/0.24.1600.876@0.24.1600.876" timestamp="1579652188154" />
+    <state width="1554" height="283" key="GridCell.Tab.0.left" timestamp="1579652188147">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.0.left/0.24.1600.876@0.24.1600.876" timestamp="1579652188147" />
+    <state width="1554" height="283" key="GridCell.Tab.0.right" timestamp="1579652188158">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.0.right/0.24.1600.876@0.24.1600.876" timestamp="1579652188158" />
+    <state width="1554" height="283" key="GridCell.Tab.1.bottom" timestamp="1579652188177">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.bottom/0.24.1600.876@0.24.1600.876" timestamp="1579652188177" />
+    <state width="1554" height="283" key="GridCell.Tab.1.center" timestamp="1579652188170">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.center/0.24.1600.876@0.24.1600.876" timestamp="1579652188170" />
+    <state width="1554" height="283" key="GridCell.Tab.1.left" timestamp="1579652188165">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.left/0.24.1600.876@0.24.1600.876" timestamp="1579652188165" />
+    <state width="1554" height="283" key="GridCell.Tab.1.right" timestamp="1579652188172">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.right/0.24.1600.876@0.24.1600.876" timestamp="1579652188172" />
+    <state x="477" y="345" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579648541227">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="477" y="345" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.24.1600.876@0.24.1600.876" timestamp="1579648541227" />
+    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579652041364">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.24.1600.876@0.24.1600.876" timestamp="1579652041364" />
     <state x="114" y="24" key="new project wizard" timestamp="1579495505282">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
