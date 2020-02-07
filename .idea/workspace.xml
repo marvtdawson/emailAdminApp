@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be48640b-5d80-4996-9d2b-a8be100cea61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/EmailTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/UserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_9_5_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marvintdawson/emailAdminApp/UserInfo/UserInfoDAOService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marvintdawson/emailAdminApp/email/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/marvintdawson/emailAdminApp/UserInfoDAOServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emailAdminApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/emailAdminApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/java_jouney_series_spring5_guess_the_number_game_application.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/email/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/jjs_email_admin_application.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/jjs_email_admin_application.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminApp/email/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminApp/email/Email.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminAppTest/EmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/emailAdminApp/com/marvintdawson/emailAdminAppTest/EmailTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marvintdawson/emailAdminApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marvintdawson/emailAdminApp/UserInfo/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminApp/email/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marvintdawson/emailAdminApp/email/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/EmailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marvintdawson/emailAdminAppTest/UserInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marvintdawson/emailAdminApp/UserInfoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +36,20 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
@@ -31,8 +57,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,6 +73,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -58,24 +85,32 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/JenkinProjects" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28275862" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.marvintdawson.emailAdminAppTest" />
+      <recent name="com.marvintdawson.emailAdminApp.email" />
       <recent name="com.marvintdawson.emailAdminApp" />
+      <recent name="com.marvintdawson.emailAdminAppTest" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.marvintdawson" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.EmailTest.getFirstName">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.marvintdawson.emailAdminApp.Main" />
       <module name="emailAdminApp" />
@@ -86,9 +121,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emailAdminApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marvintdawson.emailAdminApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marvintdawson.emailAdminApp" />
+      <option name="MAIN_CLASS_NAME" value="com.marvintdawson.emailAdminApp.EmailTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailTest.getFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emailAdminApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marvintdawson.emailAdminApp.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marvintdawson.emailAdminApp.email" />
+      <option name="MAIN_CLASS_NAME" value="com.marvintdawson.emailAdminApp.email.EmailTest" />
+      <option name="METHOD_NAME" value="getFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.marvintdawson.emailAdminApp in emailAdminApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emailAdminApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marvintdawson.emailAdminApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marvintdawson.emailAdminApp" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmailTest.getFirstName" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.EmailTest" />
+        <item itemvalue="JUnit.com.marvintdawson.emailAdminApp in emailAdminApp" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +201,14 @@
       <workItem from="1564965632964" duration="3502000" />
       <workItem from="1565497937274" duration="1010000" />
       <workItem from="1579494751830" duration="2837000" />
-      <workItem from="1579648451895" duration="3578000" />
+      <workItem from="1579648451895" duration="7301000" />
+      <workItem from="1580316612764" duration="5319000" />
+      <workItem from="1580403507911" duration="898000" />
+      <workItem from="1580587132313" duration="4460000" />
+      <workItem from="1580674336425" duration="1658000" />
+      <workItem from="1580702084307" duration="1188000" />
+      <workItem from="1580850204872" duration="113000" />
+      <workItem from="1580880720269" duration="2705000" />
     </task>
     <servers />
   </component>
@@ -139,61 +229,83 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579652771263">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="400" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876@0.24.1600.876" timestamp="1579652771263" />
     <state x="613" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1579652420138">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="613" y="136" key="#com.intellij.ide.util.MemberChooser/0.24.1600.876@0.24.1600.876" timestamp="1579652420138" />
-    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579652038338">
+    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580404328348">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog/0.24.1600.876@0.24.1600.876" timestamp="1579652038338" />
-    <state x="588" y="207" key="FileChooserDialogImpl" timestamp="1579495461182">
+    <state x="537" y="211" key="#com.intellij.ide.util.PackageChooserDialog/0.24.1600.876@0.24.1600.876" timestamp="1580404328348" />
+    <state x="408" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580318372068">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state x="588" y="207" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1579495461182" />
-    <state width="1554" height="283" key="GridCell.Tab.0.bottom" timestamp="1579652188162">
+    <state x="408" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.24.1600.876@0.24.1600.876" timestamp="1580318372068" />
+    <state x="98" y="377" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580317661269">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.0.bottom/0.24.1600.876@0.24.1600.876" timestamp="1579652188162" />
-    <state width="1554" height="283" key="GridCell.Tab.0.center" timestamp="1579652188154">
+    <state x="98" y="377" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.24.1600.876@0.24.1600.876" timestamp="1580317661269" />
+    <state x="558" y="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580317663220">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.0.center/0.24.1600.876@0.24.1600.876" timestamp="1579652188154" />
-    <state width="1554" height="283" key="GridCell.Tab.0.left" timestamp="1579652188147">
+    <state x="558" y="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.24.1600.876@0.24.1600.876" timestamp="1580317663220" />
+    <state x="588" y="207" width="424" height="482" key="FileChooserDialogImpl" timestamp="1580850310146">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.0.left/0.24.1600.876@0.24.1600.876" timestamp="1579652188147" />
-    <state width="1554" height="283" key="GridCell.Tab.0.right" timestamp="1579652188158">
+    <state x="588" y="207" width="424" height="482" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1580704638268" />
+    <state x="588" y="207" key="FileChooserDialogImpl/0.24.1600.876@0.24.1600.876" timestamp="1580850310146" />
+    <state width="1554" height="259" key="GridCell.Tab.0.bottom" timestamp="1580685845193">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.0.right/0.24.1600.876@0.24.1600.876" timestamp="1579652188158" />
-    <state width="1554" height="283" key="GridCell.Tab.1.bottom" timestamp="1579652188177">
+    <state width="1554" height="259" key="GridCell.Tab.0.bottom/0.24.1600.876@0.24.1600.876" timestamp="1580685845193" />
+    <state width="1554" height="259" key="GridCell.Tab.0.center" timestamp="1580685845193">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.1.bottom/0.24.1600.876@0.24.1600.876" timestamp="1579652188177" />
-    <state width="1554" height="283" key="GridCell.Tab.1.center" timestamp="1579652188170">
+    <state width="1554" height="259" key="GridCell.Tab.0.center/0.24.1600.876@0.24.1600.876" timestamp="1580685845193" />
+    <state width="1554" height="259" key="GridCell.Tab.0.left" timestamp="1580685845192">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.1.center/0.24.1600.876@0.24.1600.876" timestamp="1579652188170" />
-    <state width="1554" height="283" key="GridCell.Tab.1.left" timestamp="1579652188165">
+    <state width="1554" height="259" key="GridCell.Tab.0.left/0.24.1600.876@0.24.1600.876" timestamp="1580685845192" />
+    <state width="1554" height="259" key="GridCell.Tab.0.right" timestamp="1580685845193">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.1.left/0.24.1600.876@0.24.1600.876" timestamp="1579652188165" />
-    <state width="1554" height="283" key="GridCell.Tab.1.right" timestamp="1579652188172">
+    <state width="1554" height="259" key="GridCell.Tab.0.right/0.24.1600.876@0.24.1600.876" timestamp="1580685845193" />
+    <state width="1554" height="283" key="GridCell.Tab.1.bottom" timestamp="1580685845186">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state width="1554" height="283" key="GridCell.Tab.1.right/0.24.1600.876@0.24.1600.876" timestamp="1579652188172" />
+    <state width="1554" height="283" key="GridCell.Tab.1.bottom/0.24.1600.876@0.24.1600.876" timestamp="1580685845186" />
+    <state width="1554" height="283" key="GridCell.Tab.1.center" timestamp="1580685845186">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.center/0.24.1600.876@0.24.1600.876" timestamp="1580685845186" />
+    <state width="1554" height="283" key="GridCell.Tab.1.left" timestamp="1580685845186">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.left/0.24.1600.876@0.24.1600.876" timestamp="1580685845186" />
+    <state width="1554" height="283" key="GridCell.Tab.1.right" timestamp="1580685845186">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1554" height="283" key="GridCell.Tab.1.right/0.24.1600.876@0.24.1600.876" timestamp="1580685845186" />
+    <state x="288" y="27" key="SettingsEditor" timestamp="1580319970544">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="288" y="27" key="SettingsEditor/0.24.1600.876@0.24.1600.876" timestamp="1580319970541" />
     <state x="477" y="345" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579648541227">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="477" y="345" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.24.1600.876@0.24.1600.876" timestamp="1579648541227" />
-    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579652041364">
+    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580589763612">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.24.1600.876@0.24.1600.876" timestamp="1579652041364" />
-    <state x="114" y="24" key="new project wizard" timestamp="1579495505282">
+    <state x="512" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.24.1600.876@0.24.1600.876" timestamp="1580589763612" />
+    <state x="114" y="24" key="new project wizard" timestamp="1579658214650">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="114" y="24" key="new project wizard/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1579495505282" />
+    <state x="114" y="24" key="new project wizard/0.24.1600.876@0.24.1600.876" timestamp="1579658214650" />
   </component>
 </project>
