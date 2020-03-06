@@ -8,13 +8,26 @@ created using the Java programming language and various tools and frameworks.
 ## Java Console Email Admin Application
 
 The email admin app is a basic Java console web application that allows university administrative employees to send internal emails.  
+The primary focus of this tutorial application is to introduce you to Java basic language and the Java Scanner package.
 
 #### Project Structure
 Basic Java project template
 
+##### Add-Ons
+To improve functionality I added JUnit5 and JDBC with a MySQL driver connection for CRUD.
+
 ##### Classes
 * Main
 * Email
+* EmailService
+* UserInfo
+* UserInfoDAOService
+
+
+##### Test Classes
+* EmailServiceTest
+* UserInfoDAOServiceTest
+* UserInfoTest
 
 The application capture various class fields such as:
 
@@ -36,6 +49,8 @@ The application capture various class fields such as:
 * Intellij Idea Ultimate 
 * MySQL Workbench
 * Linux Command Line
+* JUnit5
+* JDBC
 * GIT (obviously)
 
 ######  The Java Journey Series includes the following JAVA applications on GIT:
