@@ -1,5 +1,7 @@
 package com.marvintdawson.emailAdminApp.email;
 
+import java.util.Scanner;
+
 public class Email {
     String firstName;
     String lastName;
@@ -12,6 +14,8 @@ public class Email {
     public Email (String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
+        this.department = setDepartment();
+        System.out.println("Department " + this.department);
     }
 
     public Email (String firstName, String lastName, String email) {
@@ -48,8 +52,15 @@ public class Email {
         return department;
     }
 
-    public void setDepartment(String department) {
+    public String setDepartment() {
         this.department = department;
+        System.out.println("Department Codes\n1 for Sales\n2 for Development\n3 for Accounting\n0 for none\nEnter department code: ");
+        Scanner in = new Scanner(System.in);
+        int depChoice = in.nextInt();
+        if(depChoice == 1) {return "Sales"; }
+        else if(depChoice == 2) { return "dev"; }
+        else if(depChoice == 3 ) {return "acct"; }
+        else { return ""; }
     }
 
     public String getPassword() {
