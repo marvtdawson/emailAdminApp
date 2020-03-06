@@ -55,7 +55,7 @@ The application capture various class fields such as:
 
 ######  The Java Journey Series includes the following JAVA applications on GIT:
 * <a href="https://github.com/marvtdawson/java-emailAdminApp">Java Email Admin Application</a>
-* Java New Bank Account
+* <a href="https://github.com/marvtdawson/java-new-bank-account-app">Java New Bank Account</a>
 * <a href="https://github.com/marvtdawson/java-student-database-app">Java Student Database Application</a>
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
